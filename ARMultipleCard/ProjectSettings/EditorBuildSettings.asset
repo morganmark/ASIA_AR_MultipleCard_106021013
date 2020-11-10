@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MultipleCard.unity
+    guid: 1667d01c0f0eab54691d607b67a0394f
   m_configObjects: {}
